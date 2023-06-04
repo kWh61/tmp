@@ -1,0 +1,5 @@
+Name, Age, Breed, Weight
+Pepsi, 3.5, American Shorthair, 11
+Popsicle, 3, Not Sure, 10
+Dog, 5, Not Cat, 20
+Pepsi II, 1, Alien, 1
